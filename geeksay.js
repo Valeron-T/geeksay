@@ -158,7 +158,8 @@ const translations = {
   catastrophic: "hidenbug",
   useless: "reality 101 faliure",
   different: "nested",
-  calling: "recursion"
+  calling: "recursion",
+  penguin: "linux",
 };
 
 const quotes = [
@@ -236,6 +237,7 @@ const quotes = [
   "Have no friends not equal to yourself.", // Have no friends ! = to yourself
   "The past does not equal the future.", //The past does ! = the future
   "I just switch tabs, not the love ones", // I just alt+tab tabs, not the <3 ones
+  "Do not kill penguins, save penguins", //Do ! alt+f4 linux, ctrl+s linux
 ];
 
 function isNumeric(num) {
